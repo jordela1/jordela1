@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jordela1
+- 👋 Hi, I’m Jordan
 - 👀 I’m interested in trying to create a repo of my work to land a job working as a software developer
 - 🌱 I’m currently learning python fundamentals & ops scripts
 - 💞️ I’m looking to collaborate on projects that would expan my codebase
